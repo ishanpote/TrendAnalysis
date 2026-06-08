@@ -147,7 +147,8 @@ LIMIT 3;
 ## 🔍 Database Visualization
 
 ### SQLite Browser Output
-*Screenshot of the database structure and sample data queries goes here*
+<img width="706" height="859" alt="Screenshot 2026-06-08 233101" src="https://github.com/user-attachments/assets/bf8e4457-4870-480f-ba53-683b1d4a9721" />
+<img width="560" height="839" alt="Screenshot 2026-06-08 233133" src="https://github.com/user-attachments/assets/bb1c9db1-2a34-49d5-a4fc-b23a6df322f9" />
 
 You can visualize the database using:
 - **SQLite Browser** (DB Browser for SQLite) - GUI tool for exploring database contents
@@ -173,12 +174,6 @@ You can visualize the database using:
 | Data Processing | Python 3 + pandas |
 | Query Language | SQL |
 | Development Environment | VS Code |
-
----
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ---
 
